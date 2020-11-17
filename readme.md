@@ -16,7 +16,7 @@ Clone this repo, then install the dependencies.
 ## Set some basic parameters
 
 ```js
-// Set your image parameters
+// Set your image parameters in app.js
 const inputFolder = './images';
 const outputFolder = './output';
 const imageWidth = 1200;
